@@ -1,0 +1,7 @@
+= TODO =
+* make HTML on forntend valid
+* changes HTML and CSS for my allegro auctions widget
+* link to user page
+* getting first auction immage if there is no thumb
+* checkin if PHP interpreter is in a right version and if it have all needed extensions.
+* There are errors on soap requests and other requests ( temporary  error_reporting is on 0 ), fix it! 
